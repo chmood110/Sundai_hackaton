@@ -57,10 +57,10 @@ La salida del análisis se presenta dentro del mismo lienzo, conservando el dibu
 ## Espacio para imágenes
 
 ### Imagen 1 — Vista general del prototipo
-![Vista general del prototipo]()
+![Vista general del prototipo](imagen__1.jpg)
 
 ### Imagen 2 — Ejemplo de análisis en 3D
-![Ejemplo de análisis en 3D]()
+![Ejemplo de análisis en 3D](imagen__2.jpg)
 
 ---
 
